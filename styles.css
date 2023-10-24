@@ -1,0 +1,82 @@
+p, a {
+    margin-left: 2.4% }
+ul, p, #row, a {
+    font-size: x-large;
+    color: azure;
+    font-family: "Calibri Light"}
+
+#Main\ block, h1, h2 {
+    color: azure;
+    text-decoration-line: blink;
+    text-align: center}
+h2 {
+    font-size: xx-large;
+    text-decoration: azure underline;
+    border-radius: 45px}
+h1 {
+    font-size: xxx-large;
+    font-style: italic;
+    text-decoration: azure underline ;
+    border-radius: 45px}
+
+body {
+    background-color: mediumpurple;
+    border: groove azure;
+    border-radius: 45px}
+
+img {
+    image-rendering: pixelated;
+    filter: brightness(85%);
+    filter: contrast(125%);
+    width: 25%}
+
+#row {
+    text-align: left;
+    margin-left: 25.5%;
+    line-height: 60px}
+
+.color_button {
+    background-color: azure;
+    height: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    border-radius: 100px;
+    border: 10px solid transparent;
+    color: mediumpurple;
+    font-size: small;
+    font-weight: bold;
+    margin-left: 85%;
+    transform: translateY(-2950%);
+
+
+
+
+
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
