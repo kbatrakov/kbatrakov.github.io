@@ -49,8 +49,8 @@ img {
     margin-left: 85%;
     transform: translateY(-2950%)}
 
-html {
-    width: 100%;
+body {
+    width: 98.5%;
     height: 100%;
     overflow: auto;
 }
