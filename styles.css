@@ -20,6 +20,8 @@ h1 {
     border-radius: 45px}
 
 body {
+    background-size: 100%;
+    position: relative;
     background-color: mediumpurple;
     border: groove azure;
     border-radius: 45px}
